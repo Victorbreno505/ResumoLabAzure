@@ -109,3 +109,25 @@ A gerenciabilidade refere-se à capacidade de monitorar, controlar e otimizar os
 - Ferramentas como o **Azure Monitor** oferecem visibilidade do desempenho dos serviços, enquanto o **Azure Automation** automatiza tarefas de gerenciamento.
 - Permite escalabilidade automática, aplicação de atualizações e monitoramento de uso e desempenho em tempo real.
 - Uma boa gerenciabilidade garante eficiência, minimiza o tempo de inatividade e otimiza os custos.
+
+
+# Criação de Máquina Virtual Windows Server no Azure
+
+A criação de uma máquina virtual (VM) com Windows Server e banco de dados no Azure é um processo simplificado que oferece alta flexibilidade e escalabilidade. O Azure fornece um assistente intuitivo para configurar e implantar a VM. Os principais passos incluem:
+
+1. **Seleção da Imagem**: Escolha a imagem do Windows Server e, se necessário, um banco de dados (como SQL Server) integrado.
+2. **Configuração da VM**: Defina os recursos, como o tamanho da máquina (CPU, memória), disco e rede. 
+3. **Autenticação**: Configure as credenciais de administrador (senha ou chave SSH) para acessar a máquina.
+4. **Monitoramento e Gerenciamento**: Após a implantação, você pode gerenciar a VM pelo portal do Azure, ajustando recursos conforme necessário.
+
+Esse processo permite criar um ambiente de servidor rapidamente, sem a necessidade de gerenciar hardware físico.
+
+## Calculadora de Preço no Azure
+
+A **Calculadora de Preço do Azure** permite estimar os custos dos serviços que você planeja usar. Ela ajuda a calcular o preço de VMs, armazenamento, redes e outros serviços, com base em configurações personalizadas. Você pode:
+
+- **Escolher os serviços** que deseja utilizar (ex: VM com Windows Server).
+- **Ajustar os recursos** como CPU, memória, tipo de disco e localização geográfica.
+- **Obter uma previsão** detalhada do custo mensal, considerando as opções de escalabilidade e uso.
+
+Essa ferramenta facilita o planejamento financeiro para a implementação de soluções no Azure, ajudando a otimizar custos.
