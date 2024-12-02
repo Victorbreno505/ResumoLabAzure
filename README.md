@@ -63,3 +63,49 @@ O Azure utiliza data centers para fornecer serviços em nuvem virtualizados, gar
 - Pagamento apenas pelos recursos utilizados.
 - Permite melhor previsão de custos.
 - Cobrança é feita com base no uso real dos serviços.
+
+
+# Azure - Benefícios
+
+## Alta Disponibilidade
+A alta disponibilidade se concentra em garantir o máximo de tempo de operação para os serviços, independentemente de interrupções ou eventos que possam ocorrer. Isso é feito através de redundâncias, failovers e acordos de nível de serviço (SLA).
+
+## Escalabilidade
+A escalabilidade refere-se à capacidade de ajustar os recursos para atender à demanda. 
+- Quando a demanda aumenta, mais recursos podem ser adicionados para manter o desempenho.
+- Quando a demanda cai, os recursos podem ser reduzidos, otimizando custos.
+- Em ambientes de nuvem, como no Azure, você paga apenas pelos recursos que utiliza.
+
+## Elasticidade
+A elasticidade permite que os recursos computacionais sejam ajustados automaticamente conforme a demanda de um sistema ou aplicação. 
+- Se a carga de trabalho aumenta, mais recursos são provisionados.
+- Quando a carga diminui, os recursos são reduzidos para evitar desperdícios.
+- A elasticidade maximiza a eficiência e garante que as organizações paguem apenas pelos recursos utilizados em tempo real.
+
+## Confiabilidade
+A confiabilidade se refere à capacidade dos serviços de nuvem de operar de maneira consistente e previsível, garantindo que as aplicações e sistemas estejam sempre disponíveis e funcionais. 
+- Inclui alta disponibilidade, recuperação de desastres e redundância de dados.
+- Provedores como o Azure utilizam replicação de dados, balanceamento de carga e backups automáticos para garantir a continuidade dos serviços.
+
+## Previsibilidade
+A previsibilidade em nuvem permite que as organizações antecipem o comportamento do sistema em termos de desempenho, custo e disponibilidade. 
+- Ferramentas de monitoramento e escalabilidade automática garantem um controle mais preciso.
+- Com SLAs e monitoramento em tempo real, as empresas podem prever e controlar melhor seus recursos e custos.
+
+## Segurança
+A segurança em nuvem abrange políticas, controles e práticas para proteger dados, aplicativos e infraestrutura.
+- Inclui proteção contra ameaças, controle de acesso, criptografia e conformidade com regulamentos.
+- Provedores como o Azure oferecem ferramentas como firewalls, detecção de intrusão, criptografia e autenticação multifator (MFA).
+- A segurança envolve responsabilidade compartilhada: o provedor protege a infraestrutura e o cliente gerencia a segurança de seus dados.
+
+## Governança
+Governança em nuvem envolve políticas e processos para garantir a gestão eficiente dos recursos de TI.
+- Controla o uso, segurança e conformidade dos recursos.
+- Ferramentas como o **Azure Policy** permitem criar e aplicar regras, enquanto o **Azure Cost Management** monitora e controla os custos.
+- Uma boa governança garante conformidade, otimização de custos e segurança.
+
+## Gerenciabilidade
+A gerenciabilidade refere-se à capacidade de monitorar, controlar e otimizar os recursos e serviços em nuvem.
+- Ferramentas como o **Azure Monitor** oferecem visibilidade do desempenho dos serviços, enquanto o **Azure Automation** automatiza tarefas de gerenciamento.
+- Permite escalabilidade automática, aplicação de atualizações e monitoramento de uso e desempenho em tempo real.
+- Uma boa gerenciabilidade garante eficiência, minimiza o tempo de inatividade e otimiza os custos.
